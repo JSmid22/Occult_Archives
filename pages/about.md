@@ -12,7 +12,9 @@ credits: true
 
 ## About CollectionBuilder-Sheets
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+This website serves as an archival repository of Jamie Smid's personal occult and metaphysical objects and materials. 
+- To use Markdown
+- To use Github with interface 
 
 Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
 This enables active collaboration to prototype collections with minimal set up.
